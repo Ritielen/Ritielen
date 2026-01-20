@@ -70,9 +70,4 @@
   />
 </p>
 
-<!-- GitHub Readme Stats -->
-![Ritielen GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritielen&show_icons=true&theme=radical)
-
-<!-- GitHub Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritielen&layout=compact&theme=radical)
 
